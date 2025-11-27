@@ -1,11 +1,11 @@
 body {
-    background-color: #f7f7f7;
+    background:linear-gradient(to left, #77c0f1, #d6e6f5 );
     color: #333;
     line-height: 1.7;
     padding: 40px;
 }
 .container {
-    background-color: #fff;
+    background-color: #dbeef3;
     padding: 30px;
     max-width: 900px;
 margin: auto;
@@ -23,5 +23,6 @@ width: 250px;
 float: right;
 margin-left: 20px;
 border-radius: 10px;
+box-shadow: 5px 8px 8px rgb(49, 40, 40);
 
 }
