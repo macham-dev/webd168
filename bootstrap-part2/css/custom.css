@@ -1,0 +1,35 @@
+section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+section h2 {
+    margin-bottom: 0.75rem;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif serif;
+    color: #333;
+    background-color: #f8f9fa;
+}
+section p.lead {
+    font-size: 1.2rem;
+    color: #000000;
+}
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    transition: background-color 0.3s ease;
+}
+.btn-primary:hover {
+    background-color: #084298;
+    border-color: #084298;
+}
+form button {
+    border-radius: 0.3rem;
+
+}
+header .btn {
+    transition: background-color 0.3s ease;
+}
+header .btn:active {
+    background-color: #333;
+}
