@@ -60,6 +60,16 @@ header .btn:active {
     animation: rotate 6s infinite alternate;
     box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
+.contact-1 {
+    font-size: 20px;
+    background-color: #ffffff;
+    color: #0000ff;
+
+}
+.message-mb-3 label {
+    font-size: 20px;
+    
+}
 @keyframes rotate {
 
     0% {
